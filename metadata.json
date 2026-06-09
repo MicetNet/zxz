@@ -1,0 +1,6 @@
+{
+  "name": "Micet.Net",
+  "description": "A dark-themed biometric/Wi-Fi validated real-time attendance management application with Firebase sync, push notifications, and detailed role-based administration features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
